@@ -8,7 +8,7 @@ https://favouritestudentmanagement.vercel.app/
 
 ## GitHub Repository
 
-https://github.com/jagadishwar-official/Favourite-Student-Management-a
+https://github.com/jagadishwar-official/favourite_student_management-/tree/main
 
 ## About the Project
 
